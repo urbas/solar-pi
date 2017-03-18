@@ -18,7 +18,7 @@ _Base Kit_ material costs:
 - SD Card: £7 ([SanDisk Ultra 16 GB microSDHC Class 10 Memory Card](https://www.amazon.co.uk/d/Memory-Cards/SanDisk-Ultra-16-GB-microSDHC-Class-Mbps/B010NE3U2M/ref=sr_1_4?s=electronics-accessories&rps=1&ie=UTF8&qid=1489843042&sr=1-4&keywords=micro+sd+card))
 - Boxing: £? (TODO)
 
-Total: £59.1 + £?
+_Base Kit_ total fixed cost: £59.1 + £?
 
 
 ### Variable costs
