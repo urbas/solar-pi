@@ -17,7 +17,7 @@ _Base Kit_ material costs:
 - GSM Module: £7.9 ([SIM800L GPRS GSM Module Micro SIM Card Core Board Quad-Band TTL Serial Port](http://www.ebay.co.uk/itm/162017759834?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT))
 - Boxing: £? (TODO)
 
-Total: £49.9 + £?
+Total: £52.1 + £?
 
 
 ### Variable costs
