@@ -45,3 +45,8 @@ Connect to the GSM module via this command:
 ```
 sudo minicom -b 9600 -D /dev/ttyS0
 ```
+
+
+# Links
+
+[Solar Power for the ESP8266, Arduino, etc.](https://www.youtube.com/watch?v=WdP4nVQX-j0) by Andreas Spiess _[YouTube video]_
