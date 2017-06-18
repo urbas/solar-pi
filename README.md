@@ -49,4 +49,4 @@ sudo minicom -b 9600 -D /dev/ttyS0
 
 # Links
 
-[Solar Power for the ESP8266, Arduino, etc.](https://www.youtube.com/watch?v=WdP4nVQX-j0) by Andreas Spiess _[YouTube video]_
+[Solar Power for the ESP8266, Arduino, etc.](https://www.youtube.com/watch?v=WdP4nVQX-j0) by Andreas Spiess _[YouTube video]_: Andreas calculates the required solar panel size and battery size given that he wanted to power his device throughout the year assuming some circumstances.
