@@ -50,3 +50,27 @@ sudo minicom -b 9600 -D /dev/ttyS0
 # Links
 
 [Solar Power for the ESP8266, Arduino, etc.](https://www.youtube.com/watch?v=WdP4nVQX-j0) by Andreas Spiess _[YouTube video]_: Andreas calculates the required solar panel size and battery size given that he wanted to power his device throughout the year assuming some circumstances.
+
+
+## Raspberry Pi-friendly SIM900A
+
+Here are instructions on what to to: https://www.modmypi.com/blog/how-to-connect-your-raspberry-pi-to-a-3g-network
+
+I changed this line in file `/boot/cmdline.txt`:
+
+```
+dwc_otg.lpm_enable=0 console=serial0,115200 console=tty1 root=PARTUUID=08646a9e-02 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait
+```
+
+to:
+
+```
+dwc_otg.lpm_enable=0 console=tty1 root=PARTUUID=08646a9e-02 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait
+```
+
+This didn't work.
+
+
+THIS WORKED!
+
+Here are the AT commands: http://www.electrodragon.com/w/SIMCOM_AT_Commands
