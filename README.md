@@ -74,3 +74,5 @@ This didn't work.
 THIS WORKED!
 
 Here are the AT commands: http://www.electrodragon.com/w/SIMCOM_AT_Commands
+
+Sending GPRS data: http://www.electrodragon.com/w/SIMCOM_AT_Commands
